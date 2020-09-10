@@ -1,24 +1,34 @@
-# README
+# Micro Reddit App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> A project to learn Rails Associations.
 
-Things you may want to cover:
+## Tools/Languages Used
 
-* Ruby version
+* Ruby on rails
 
-* System dependencies
+## Authors
 
-* Configuration
+**Muhammad Umar**
+- Github: [@mohammadumar28](https://github.com/mohammadumar28)
+- LinkedIn: [Mohammad Umar](https://www.linkedin.com/in/mohammadumar28/)
+- Twitter: [@Mohammadumar28](https://twitter.com/Mohammadumar28)
+- Email: [mohammadumar28@gmail.com](mailto:mohammadumar28@gmail.com)
 
-* Database creation
+**Aldana Longhi**
+- Github: [@AlduLonghi](https://github.com/AlduLonghi)
+- Twitter: [@AbrilLonghi](https://twitter.com/AbrilLonghi)
+- Linkedin: [Aldana Abril Longhi](https://www.linkedin.com/in/aldana-abril-longhi-a842ba1a7/)
+- Email [aldulonghi@gmail.com](mailto:aldulonghi@gmail.com)
 
-* Database initialization
+## Acknowledgements
 
-* How to run the test suite
+* [The Odin project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)
+* [Microverse](https://microverse.org)
 
-* Services (job queues, cache servers, search engines, etc.)
+## Contribution
 
-* Deployment instructions
-
-* ...
+* Fork this repo.
+* Create your feature branch `git checkout -b my-new-feature`.
+* Commit your changes `git commit -am "Add some feature"`.
+* Push to the branch `git push origin my-new-feature`.
+* Create a new Pull Request.
